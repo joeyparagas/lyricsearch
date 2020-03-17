@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+// New changes
+
+>>>>>>> testing commit
 const form = document.getElementById('form'),
   search = document.getElementById('search'),
   result = document.getElementById('result'),
